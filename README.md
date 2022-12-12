@@ -1,5 +1,7 @@
 # SQL-Project
 
+💻 Work performed on Azure Data Studio 💻
+
 |**Project Name**|**Description**|**Source**|**Status**|
 |---|---|---|---|
 |🍜[Danny's Diner](https://github.com/Chicong00/Case-study-1)||Click [Here](https://8weeksqlchallenge.com/case-study-1/)|Done|
